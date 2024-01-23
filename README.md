@@ -1,10 +1,10 @@
 Application generates a random password based on specific criteria the user selects.
 Criteria includes:
-A password length of between 8 and 128 characters.
-Uppercase characters.
-Lowercase characters.
-Numeric characters.
-Special characters.
+A password length of between 8 and 128 characters,
+Uppercase characters,
+Lowercase characters,
+Numeric characters,
+Special characters,
 When all prompts are answered the application should display a new random password everytime the user clicks the "Generate Password" button.
 
 
